@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gabriela Moreira</title>
-    <link>https://gabrielamoreira.github.io/</link>
-    <description>Recent content on Gabriela Moreira</description>
+    <title>Gabriela Mafra</title>
+    <link>https://gabrielamafra.github.io/</link>
+    <description>Recent content on Gabriela Mafra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gabrielamoreira.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gabrielamafra.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
