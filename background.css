@@ -6,13 +6,7 @@ body {
     min-height:100%;
     margin: 0;
     background-size: auto;
-    background: rgba(247,185,161,1);
-    background: -moz-linear-gradient(top, rgba(247,185,161,1) 0%, rgba(247,185,161,1) 16%, rgba(100,66,208,1) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(247,185,161,1)), color-stop(16%, rgba(247,185,161,1)), color-stop(100%, rgba(100,66,208,1)));
-    background: -webkit-linear-gradient(top, rgba(247,185,161,1) 0%, rgba(247,185,161,1) 16%, rgba(100,66,208,1) 100%);
-    background: -o-linear-gradient(top, rgba(247,185,161,1) 0%, rgba(247,185,161,1) 16%, rgba(100,66,208,1) 100%);
-    background: -ms-linear-gradient(top, rgba(247,185,161,1) 0%, rgba(247,185,161,1) 16%, rgba(100,66,208,1) 100%);
-    background: linear-gradient(to bottom, rgba(247,185,161,1) 0%, rgba(247,185,161,1) 16%, rgba(100,66,208,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7b9a1', endColorstr='#6442d0', GradientType=0 );
-
+    background: #F0C27B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4B1248, #F0C27B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4B1248, #F0C27B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
